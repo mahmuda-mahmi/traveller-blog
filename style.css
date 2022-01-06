@@ -2,6 +2,7 @@ body{
     margin: 5%;
 }
 section{
+<<<<<<< HEAD
     display: flex;
 }
 button{
@@ -51,3 +52,15 @@ img{
 .height img{
     height: 300px;
 }
+=======
+    display: block;
+}
+.forty img{
+    width:80%;
+    padding: 5%;
+    }
+.height img{
+    width:80%;
+    padding: 5%;
+    }
+>>>>>>> fbda4368ae87c4819a70df6e1adc549582a8e9d4
