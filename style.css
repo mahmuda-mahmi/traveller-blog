@@ -4,3 +4,11 @@ body{
 section{
     display: block;
 }
+.forty img{
+    width:80%;
+    padding: 5%;
+    }
+.height img{
+    width:80%;
+    padding: 5%;
+    }
