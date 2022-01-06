@@ -1,0 +1,111 @@
+body{
+    margin:0;
+    display: block;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.text{
+    margin-top: 100px;
+    margin-left:50px;
+}
+.half-space{
+    width: 40%;
+    padding: 5%;
+}
+.photo{
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.link-button{
+    border-radius: 10px;
+    text-decoration: none;
+    padding:10px;
+    background-color: #d12c55;
+    color: whitesmoke;
+}
+p{
+    font-weight: 550;
+    padding: 5px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px ;
+}
+h1{
+    font-size: 60px;
+    padding-left: 15px;
+}
+h3{
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.code-blue{
+   color: #1854ad ;
+}
+.side-bar{
+    border-left: 4px solid #28d182 ;
+    border-image-slice: 1;
+    border-radius: 4px;
+}
+.heading{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 900;
+}
+.containers{
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    width: 80%;
+}
+.content-box{
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    box-shadow: none;
+    padding: 5px 30px;
+}
+.content-box img{
+    width: 50%;
+}
+#mission{
+    background-color: #d6e7ce;
+}
+#vission{
+    background-color: #8ca7c2 ;
+}
+#goal{
+    background-color: #b0d9c8;
+}
+#contact{
+    font-size: 20px;
+    color: cornflowerblue;
+    padding: 5px;
+    margin-top: 10px;
+    align-items:center;
+    border-radius: 5px;
+}
+.first{
+    margin-top: 10px;
+}
+.last{
+    margin-bottom: 20px;
+}
+.bottom{
+    text-align: center;
+}
+.info{
+    text-align: center;
+    
+}
+footer{
+    text-align: center;
+    color: rgb(95, 94, 91);
+    margin-top: 90px;
+    padding: 40px;
+    background-color: rgba(32, 29, 29, 0.952);
+}
